@@ -6,7 +6,7 @@
       "version": "1.0.0",
       "developer": "Flux",
       "releaseDate": "2026-11-16",
-      "description": "High-speed 3D parkour survival chase game.",
+      "description": "High-speed 3D parkour survival chase game. *Nextbot images and sounds are not available.*",
       "downloadUrl": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/evade.exe",
       "executable": "EvadeOverrun.exe",
       "launchType": "exe",
@@ -14,21 +14,6 @@
       "banner": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/evadebanner.jpg",
       "size": "71.1 MB",
       "tags": ["Екшн", "Паркур", "3D"]
-    },
-    {
-      "id": "101",
-      "title": "Velocity Legends",
-      "version": "1.0.0",
-      "developer": "Flux",
-      "releaseDate": "2026-11-16",
-      "description": "Open-world 3D racing and vehicle customization game.",
-      "downloadUrl": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/vl.exe",
-      "executable": "VelocityLegends.exe",
-      "launchType": "exe",
-      "icon": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/velocityicon.jpg",
-      "banner": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/velocitybanner.jpg",
-      "size": "1 MB",
-      "tags": ["Перегони", "3D"]
     }
   ]
 }
