@@ -29,6 +29,21 @@
       "banner": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/velocitybanner.jpg",
       "size": "66.3 MB",
       "tags": ["Перегони", "3D"]
+    },
+    {
+      "id": "102",
+      "title": "Sludge",
+      "version": "1.0.0",
+      "developer": "Flux",
+      "releaseDate": "2026-11-22",
+      "description": "Survival island and cave exploration game with resource gathering, crafting, grid base building, and night raids.",
+      "downloadUrl": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludge.exe",
+      "executable": "sludge.exe",
+      "launchType": "exe",
+      "icon": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludgeicon.jpg",
+      "banner": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludgebanner.jpg",
+      "size": "66.3 MB",
+      "tags": ["Виживання", "Крафт", "3D"]
     }
   ]
 }
