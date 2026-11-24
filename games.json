@@ -33,16 +33,16 @@
     {
       "id": "102",
       "title": "Sludge",
-      "version": "1.0.0",
-      "developer": "Flux",
+      "version": "1.1.0",
+      "developer": "Rainmark",
       "releaseDate": "2026-11-22",
-      "description": "Survival island and cave exploration game with resource gathering, crafting, grid base building, and night raids.",
+      "description": "Survival island and cave exploration game with resource gathering, crafting, grid base building, and night raids.\nNew Update v1.1.0:\nAdded:\n- Armor\n- Sniper rifle\n- Exploding barrels when shot\n- Headshot multiplier (headshots now deal extra damage)\n- Underground caves\n- Multiple save slots for worlds\n- Confirmation pop-up before deleting a world\n- Island generator with random & custom seeds\n- Difficulty modes & hardcore challenges (like no HP regen)\n- Toggleable shaders in settings (optimized for high FPS)\n- Studio splash & loading screen on game launch\n\nChanged:\n- Longer days and nights\n- Darker nights for better atmosphere\n- Rebalanced healing (food restores less HP, making medkits much more valuable)\n- Free building — you can now build mid-air in any direction from a single foundation\n\nFixed:\n- Beds sometimes failing to register spawn points (now works reliably)\n- Enemies hitting you through walls or from mid-air\n- Various player and object collision bugs",
       "downloadUrl": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludge.exe",
       "executable": "sludge.exe",
       "launchType": "exe",
       "icon": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludgeicon.jpg",
       "banner": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludgebanner.jpg",
-      "size": "66.3 MB",
+      "size": "66.7 MB",
       "tags": ["Виживання", "Крафт", "3D"]
     }
   ]
