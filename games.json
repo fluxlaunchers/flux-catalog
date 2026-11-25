@@ -33,10 +33,10 @@
     {
       "id": "102",
       "title": "Sludge",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "developer": "Rainmark",
       "releaseDate": "2026-11-22",
-      "description": "Survival island and cave exploration game with resource gathering, crafting, grid base building, and night raids.\nNew Update v1.1.0:\nAdded:\n- Armor\n- Sniper rifle\n- Exploding barrels when shot\n- Headshot multiplier (headshots now deal extra damage)\n- Underground caves\n- Multiple save slots for worlds\n- Confirmation pop-up before deleting a world\n- Island generator with random & custom seeds\n- Difficulty modes & hardcore challenges (like no HP regen)\n- Toggleable shaders in settings (optimized for high FPS)\n- Studio splash & loading screen on game launch\n\nChanged:\n- Longer days and nights\n- Darker nights for better atmosphere\n- Rebalanced healing (food restores less HP, making medkits much more valuable)\n- Free building — you can now build mid-air in any direction from a single foundation\n\nFixed:\n- Beds sometimes failing to register spawn points (now works reliably)\n- Enemies hitting you through walls or from mid-air\n- Various player and object collision bugs",
+      "description": "Survival island and cave exploration game with resource gathering, crafting, grid base building, and night raids.\nNew Update v1.2:\nAdded:\n- Craftable chests (6x4 storage)\n- Rivers and fishing (catch fish and rare loot)\n- Sandbox mode (unlocks after surviving 5 nights; includes fly, god mode, entity spawner, and custom stats)\n- Item drops upon death\n- Dynamic difficulty ranks (Brutal, Hardcore, Ultrahardcore, True Hardcore) with custom HP bar patterns\n- World details view (playtime, active challenges, and copyable seed)\n- Expanded settings menu (volume, sensitivity, brightness, and more)\n- Game version display in the bottom-right corner\n\nChanged:\n- More varied and random world generation\n- Upgraded sound effects for a more realistic feel\n- Free-form building anywhere, as long as it is connected to a foundation\n- You can now destroy your own buildings\n- Mouse wheel hotbar slot switching\n- Reduced frequency of on-screen pop-up messages (like headshot alerts) to keep the screen clear\n\nRemoved:\n- \"Respawn on Island\" button (prevented cheating and unintended world resets)\n\nFixed:\n- Various collision issues",
       "downloadUrl": "https://github.com/fluxlaunchers/flux-catalog/releases/download/v1.1.0/sludge.exe",
       "executable": "sludge.exe",
       "launchType": "exe",
